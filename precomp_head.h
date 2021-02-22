@@ -1,0 +1,16 @@
+#include <QMainWindow>
+#include <QInputDialog>
+#include <QStatusBar>
+#include <QLabel>
+#include <QTcpSocket>
+#include <QtNetwork>
+#include <QAbstractSocket>
+#include <QtCharts>
+#include <QApplication>
+#include <QGraphicsScene>
+#include <QMessageBox>
+#include <QLegend>
+#include <QSlider>
+#include <QProcess>
+#include <QIcon>
+#include <QTimer>
